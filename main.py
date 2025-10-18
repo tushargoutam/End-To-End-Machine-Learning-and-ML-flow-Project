@@ -1,4 +1,13 @@
 from src.Project import logger
+from src.Project.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
 
 
-logger.info("Test Custom logging is create")
+STAGE_NAME = "Data Ingestion Stage"
+try:
+    logger.info(f">>>>>>>>> stage {STAGE_NAME} started <<<<<<<")
+    obj = DataIngestionTrainingPipeline()
+    obj.main()
+    logger.info(f">>>>>>>>> stage {STAGE_NAME} completed <<<<<<<")
+except Exception as e:
+    logger.exception(e)
+    raise e
