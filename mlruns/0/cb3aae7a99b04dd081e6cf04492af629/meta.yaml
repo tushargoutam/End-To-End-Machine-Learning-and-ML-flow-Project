@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/OneDrive/Desktop/VIT%20MSD/Project/End%20to%20End%20ML%20ops%20along%20with%20deployment/End-To-End-Machine-Learning-and-ML-flow-Project/mlruns/0/cb3aae7a99b04dd081e6cf04492af629/artifacts
+end_time: 1760886882102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb3aae7a99b04dd081e6cf04492af629
+run_name: monumental-crow-154
+run_uuid: cb3aae7a99b04dd081e6cf04492af629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760886878670
+status: 3
+tags: []
+user_id: acer

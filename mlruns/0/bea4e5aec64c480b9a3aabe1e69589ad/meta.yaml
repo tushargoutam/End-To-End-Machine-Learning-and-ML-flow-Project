@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/OneDrive/Desktop/VIT%20MSD/Project/End%20to%20End%20ML%20ops%20along%20with%20deployment/End-To-End-Machine-Learning-and-ML-flow-Project/mlruns/0/bea4e5aec64c480b9a3aabe1e69589ad/artifacts
+end_time: 1760889942745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bea4e5aec64c480b9a3aabe1e69589ad
+run_name: persistent-hog-452
+run_uuid: bea4e5aec64c480b9a3aabe1e69589ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760889939898
+status: 3
+tags: []
+user_id: acer

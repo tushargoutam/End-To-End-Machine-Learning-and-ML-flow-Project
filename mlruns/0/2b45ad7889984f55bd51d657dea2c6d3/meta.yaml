@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/OneDrive/Desktop/VIT%20MSD/Project/End%20to%20End%20ML%20ops%20along%20with%20deployment/End-To-End-Machine-Learning-and-ML-flow-Project/mlruns/0/2b45ad7889984f55bd51d657dea2c6d3/artifacts
+end_time: 1760889989211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b45ad7889984f55bd51d657dea2c6d3
+run_name: fearless-kit-424
+run_uuid: 2b45ad7889984f55bd51d657dea2c6d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760889985184
+status: 4
+tags: []
+user_id: acer

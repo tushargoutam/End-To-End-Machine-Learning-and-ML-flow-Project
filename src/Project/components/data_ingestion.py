@@ -3,6 +3,7 @@ import urllib.request as request
 import zipfile
 from src.Project import logger
 from pathlib import Path
+from src.Project.utils.common import get_size
 from src.Project.entity.config_entity import DataIngestionConfig
 
 class DataIngestion:
@@ -18,7 +19,7 @@ class DataIngestion:
             logger.info(f"{filename} download! with following info: \n{headers}")
 
         else:
-            logger.info(f"File Already Exists of size : {get_size(Path(self.config.local_data))}")
+            logger.info(f"File Already Exists of size : {get_size(Path(self.config.local_data_file))}")
 
     
     def extract_zip_file(self):

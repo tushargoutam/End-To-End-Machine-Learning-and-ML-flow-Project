@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/OneDrive/Desktop/VIT%20MSD/Project/End%20to%20End%20ML%20ops%20along%20with%20deployment/End-To-End-Machine-Learning-and-ML-flow-Project/mlruns/0/e743b05836804b2cac1bc4e13eebd233/artifacts
+end_time: 1760889598463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e743b05836804b2cac1bc4e13eebd233
+run_name: gaudy-panda-912
+run_uuid: e743b05836804b2cac1bc4e13eebd233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760889595083
+status: 3
+tags: []
+user_id: acer

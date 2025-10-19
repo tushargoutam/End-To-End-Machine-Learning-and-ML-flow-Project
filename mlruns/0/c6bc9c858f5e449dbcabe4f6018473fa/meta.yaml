@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/acer/OneDrive/Desktop/VIT%20MSD/Project/End%20to%20End%20ML%20ops%20along%20with%20deployment/End-To-End-Machine-Learning-and-ML-flow-Project/mlruns/0/c6bc9c858f5e449dbcabe4f6018473fa/artifacts
+end_time: 1760887299076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6bc9c858f5e449dbcabe4f6018473fa
+run_name: luxuriant-shoat-761
+run_uuid: c6bc9c858f5e449dbcabe4f6018473fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760887294522
+status: 4
+tags: []
+user_id: acer
