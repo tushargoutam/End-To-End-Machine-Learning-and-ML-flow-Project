@@ -19,6 +19,8 @@ def training():
 
 @app.route('/predict',methods=['POST','GET']) # route to show the predictions in a web UI
 def index():
+    os.system("python main.py")
+    return "Training Successful!" 
     if request.method == 'POST':
         try:
             #  reading the inputs given by the user
