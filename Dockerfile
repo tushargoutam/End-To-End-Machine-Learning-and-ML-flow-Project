@@ -1,9 +1,13 @@
-FROM python:3.8-slim-buster
+FROM python:3.9-slim
 
-RUN apt update -y && apt install awscli -y
-WORKDIR /app
+# Install AWS CLI and Python dependencies
+RUN pip install --no-cache-dir awscli
 
-COPY . /app
-RUN pip install -r requirements.txt
+# Copy project files into the default AWS working directory
+COPY . .
 
+# Install requirements
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Default command
 CMD ["python3", "app.py"]
