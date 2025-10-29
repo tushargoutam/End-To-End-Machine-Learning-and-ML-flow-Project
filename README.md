@@ -28,3 +28,6 @@ export MLFLOW_TRACKING_PASSWORD=b7cfe0b4e3d655802d2fe95cd35fd161485991a5
 
 # 4. Now, run your Python script
 python your_script.py
+
+
+893915939748.dkr.ecr.eu-north-1.amazonaws.com/mlproj
